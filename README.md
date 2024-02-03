@@ -10,4 +10,4 @@
 *credits:* HoatikaNess
 
 **[Portuguese (Brazil)](https://github.com/tifannypurple/arix-translations)** -
-*credits:* HoatikaNess
+*credits:* TifannyPurple
